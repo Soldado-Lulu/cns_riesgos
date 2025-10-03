@@ -12,3 +12,4 @@
 >
     {{ $slot->isEmpty() ? __('Saved.') : $slot }}
 </div>
+>
